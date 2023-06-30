@@ -3,24 +3,3 @@
 Любимая еда - мясо и овощи
 Любимое время года - лето
 Страна, которую хотела бы посетить - Китай
-Клиент-серверная архитектура
-HTTP
-JSON
-HTML
-API
-Postman
-Charles
-Fiddler
-DevTools
-VPN
-Mobile tesring
-VEB testing
-Terminal
-GIT
-SQL
-Postgres
-Redis
-Jmeter
-Scrum
-Test design
-Python
